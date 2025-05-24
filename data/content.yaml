@@ -1,90 +1,73 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: James
+  LastName: Stallings
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: 1 (757) 254-7373
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: James@Stallings.help
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="James.Stallings.Help" target="_blank">James.Stallings.Help</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Maryland, United States
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Teledyne Energy Systems
+    Place: Maryland, US
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Battery Test Engineer
+        Date: June 2024 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Test and evaluate battery cells of various chemistries utilizing Maccor Battery Test Systems.
+          - Perform UNDOT testing on lithium-ion
+          - Perform destructive testing such as nail penetration, crush, and short circuit.
+          - Create and maintain test procedures and reports.
+          - Create and maintain Visual Basic scripts to automate data collection and analysis.
+        Badges: ['Battery Testing', 'Excel', 'Visual Basic', 'UNDOT', 'Maccor']
+  - Employer: Stanley Black & Decker
+    Place: Maryland, US
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Senior Lead Engineering Technician
+        Date: Apr 2021 - Jun 2024
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - Create and maintain test fixtures and equipment for battery testing.
+          - build custom battery packs for destructive and field placement.
+          - Perform destructive testing such as force discharge, low impedence, and hard short circuit.
+          - Analyse and report on test results.
+          - Model test fixtures in Catia V5 for 3d printing or CNC machining.
+        Badges: ['Battery Testing', 'Excel', 'Visual Basic', 'UNDOT', 'Maccor', 'Catia V5', '3D Printing', 'CNC Machining']
+  - Employer: Transformational Security
+    Place: Maryland, US
+    Positions:
+      - Title: Engineering Technician
+        Date: Nov 2019 - January 2021
+        Details: 
+          - Assemble and test custom hardware for secure communications.
+          - Perform functional testing and validation of hardware for delivery to customers.
         Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+  - Employer: Lynxnet, LLC
+    Place: Virginia, US
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Engineering Technician
+        Date: Oct 2017 - Nov 2019
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
-
+          - Assemble and test custom hardware for secure communications.
+          - Perform functional testing and validation of hardware for delivery to customers.
+          - Create and maintain test procedures and reports.
+          - Create and maintain Visual Basic scripts to automate data collection and analysis.
+        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
+  - Course: Master of Science in Computer Information Systems
+    Place: ECPI University
+    Date: July 2016 - Oct 2017
     Details: Specialised in data analysis
-
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
-
+  - Course: Bachelor of Science in Electrical Engineering Technology
+    Place: ECPI University
+    Date: Oct 2014- May 2016
+    Details: Specialised in embedded systems and control theory
 
 Skills:
   - Family: Programming
@@ -116,18 +99,8 @@ Skills:
       - LaTeX
 
 Languages:
-  - Name: Portuguese
-    Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+    Level: Native
 
 Interests:
   - Bouldering
