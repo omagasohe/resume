@@ -8,8 +8,8 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="James.Stallings.Help" target="_blank">James.Stallings.Help</a>
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://www.linkedin.com/in/james-stallings-md" target="_blank">https://www.linkedin.com/in/james-stallings-md/a>
-   - Icon: fas fa-map-marker-alt
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/jstallings-md" target="_blank">Linkedin.com/in/jStallings-md</a>
+    - Icon: fas fa-map-marker-alt
       Info: Maryland, United States
 
 Profile: RF Comms Technician turned Battery Test Engineer with a passion for sustainable manufacturing and prototype development. Experienced in testing and validation of battery cells, custom hardware assembly, and functional testing. Proficient in data analysis, software development, and quality assurance. Skilled in creating and maintaining test procedures, reports, and automation scripts. Strong background in electrical engineering technology with a focus on test system development.
@@ -64,11 +64,9 @@ Education:
   - Course: Master of Science in Computer Information Systems
     Place: ECPI University
     Date: July 2016 - Oct 2017
-    Details: Specialised in data analysis
   - Course: Bachelor of Science in Electrical Engineering Technology
     Place: ECPI University
     Date: Oct 2014- May 2016
-    Details: Specialised in embedded systems and control theory
 
 Skills:
   - Family: Cad

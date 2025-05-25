@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
+baseURL = "https://james.stallings.help/"
 title = "Example - CV"
 #googleAnalytics = ""
 
@@ -15,15 +15,15 @@ enableMetaTags = true
 colorLight = "#fff"
 colorDark = "#666"
 colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorPrimary = "#00bfb8"
 colorSecondary = "#aaa"
 colorIconPrimary = "#fff"
-colorIconBackground = "#e3bfb8"
+colorIconBackground = "#00bfb8"
 colorRightColumnBackground = "#f5f5f5"
 colorRightColumnHeadingText = "#666"
 colorRightColumnBodyText = "#666"
 colorRightColumnIconPrimary = "#fff"
-colorRightColumnIconBackground = "#e3bfb8"
+colorRightColumnIconBackground = "#00bfb8"
 pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = false
