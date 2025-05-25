@@ -2,13 +2,14 @@ BasicInfo:
   FirstName: James
   LastName: Stallings
   Photo: img/avatar.jpg
+  QRCode: img/qr_code.png
   Contacts:
     - Icon: fas fa-envelope
       Info: James@Stallings.help
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="James.Stallings.Help" target="_blank">James.Stallings.Help</a>
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://www.linkedin.com/in/jstallings-md" target="_blank">Linkedin.com/in/jStallings-md</a>
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/jstallings-md" target="_blank">Linkedin.com/in/JStallings-MD</a>
     - Icon: fas fa-map-marker-alt
       Info: Maryland, United States
 

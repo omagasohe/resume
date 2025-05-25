@@ -7,7 +7,7 @@ theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://james.stallings.help/"
-title = "Example - CV"
+title = "James Stallings"
 #googleAnalytics = ""
 
 [params]
