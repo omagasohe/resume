@@ -3,16 +3,16 @@ BasicInfo:
   LastName: Stallings
   Photo: img/avatar.jpg
   Contacts:
-    - Icon: fas fa-phone
-      Info: 1 (757) 254-7373
     - Icon: fas fa-envelope
       Info: James@Stallings.help
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="James.Stallings.Help" target="_blank">James.Stallings.Help</a>
-    - Icon: fas fa-map-marker-alt
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/james-stallings-md" target="_blank">https://www.linkedin.com/in/james-stallings-md/a>
+   - Icon: fas fa-map-marker-alt
       Info: Maryland, United States
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: RF Comms Technician turned Battery Test Engineer with a passion for sustainable manufacturing and prototype development. Experienced in testing and validation of battery cells, custom hardware assembly, and functional testing. Proficient in data analysis, software development, and quality assurance. Skilled in creating and maintaining test procedures, reports, and automation scripts. Strong background in electrical engineering technology with a focus on test system development.
 
 Experience:
   - Employer: Teledyne Energy Systems
@@ -47,18 +47,19 @@ Experience:
         Details: 
           - Assemble and test custom hardware for secure communications.
           - Perform functional testing and validation of hardware for delivery to customers.
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
   - Employer: Lynxnet, LLC
     Place: Virginia, US
     Positions:
       - Title: Engineering Technician
         Date: Oct 2017 - Nov 2019
         Details:
-          - Assemble and test custom hardware for secure communications.
-          - Perform functional testing and validation of hardware for delivery to customers.
-          - Create and maintain test procedures and reports.
-          - Create and maintain Visual Basic scripts to automate data collection and analysis.
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+          - Troubleshoot and repair electronic systems for US Coast Guard.
+          - Substrate repair and rework of unique circuit boards.
+          - Reverse engineering of obsolete electronic systems for documentation and repair.
+          - Automated test development using Diagnosys Pinpoint test systems and other automated systems
+          - Designed custom PCBs and test fixtures as needed.
+          - Development of standalone test systems using embedded devices such as Raspberry Pi and Arduino.
+        Badges: ['C#', 'Python', 'C', 'Embedded Systems', 'LabVIEW', 'Diagnosys Pinpoint', 'PCB Design']
 Education:
   - Course: Master of Science in Computer Information Systems
     Place: ECPI University
@@ -70,42 +71,30 @@ Education:
     Details: Specialised in embedded systems and control theory
 
 Skills:
-  - Family: Programming
+  - Family: Cad
+    Items:
+      - Solidworks
+      - Catia V5
+      - Onshape
+      - Fusion
+      - OpenScad
+
+  - Family: Programming Languages
     Items:
       - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
       - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
-    Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+      - Visual Basic Application
+      - LabVIEW
 
 Languages:
   - Name: English
     Level: Native
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
+  - Sustainable Manufacturing
+  - Prototype Development
+  - Quality Assurance
+  - Testing and Validation
   - Design
-  - Languages
+  - Software Development
+  - Data Analysis
